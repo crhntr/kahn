@@ -1,0 +1,15 @@
+{
+  "name": "kahn",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "I was watching a Kahn Accadmemy video and liked the colors. So this is kind of based on those colors... kindof.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/crhntr/kahn",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
